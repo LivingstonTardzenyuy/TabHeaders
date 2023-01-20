@@ -1,0 +1,42 @@
+*
+{
+    padding:0;
+    background-color: peru;
+    margin:0;
+}
+
+.tabcontent
+{
+    display: none;
+    
+}
+h1
+{
+    display: flex;
+}
+
+.lin
+{
+    /* height: 100%; */
+    /* width: 100px; */
+    float: left;
+    display: inline-flex;
+    margin-top:46%;
+    
+    
+}
+
+.lin .tablink
+{
+    width: 725%;
+    padding: 15px 122.8%;
+    border:none;
+    background-color: grey;
+    /* text-decoration: none; */
+}
+
+.lin .tablink:hover
+{
+    background-color: green;
+    opacity: 0.2;
+}
